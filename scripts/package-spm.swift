@@ -68,10 +68,10 @@ let excludedTestClasses: [String] = [
     "VirtualSchedulerTest",
     "HistoricalSchedulerTest"*/
     "BagTest",
-    "SharedSequenceConcurrencyTests",
+    /*"SharedSequenceConcurrencyTests",
     "InfallibleConcurrencyTests",
     "ObservableConcurrencyTests",
-    "PrimitiveSequenceConcurrencyTests"
+    "PrimitiveSequenceConcurrencyTests"*/
 ]
 
 let throwingWordsInTests: [String] = [
